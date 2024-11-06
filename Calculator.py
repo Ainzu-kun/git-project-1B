@@ -5,3 +5,4 @@ c = (a*b)
 d = c* (a+b)
 
 Perkalian = c*d
+print(Perkalian)
