@@ -4,5 +4,8 @@ b = int(input("Masukkan Angka: "))
 c = (a*b)
 d = c* (a+b)
 
+
 Pembagian = c/d
 print (pembagian)
+Perkalian = c*d
+
